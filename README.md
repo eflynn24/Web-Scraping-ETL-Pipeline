@@ -1,6 +1,6 @@
 **Project: Web Scraping & LLM Data Pipeline**
 
-Build an ETL pipeline that collects web data from Common Crawl, processes and cleans the text, applies quality filtering, and prepares a dataset suitable for large language model (LLM) training or evaluation.
+Build an ETL pipeline that collects web data from Common Crawl, processes and cleans the text, applies quality filtering, and prepares a dataset suitable for large language model (LLM) training and evaluation.
 
 **Project Objectives**
 
