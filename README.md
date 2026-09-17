@@ -17,7 +17,7 @@ Build an ETL pipeline that collects website data, processes and cleans the text,
 
 
 4. Data Quality & Filtering
-<img width="2553" height="1546" alt="mermaid-diagram (5)" src="https://github.com/user-attachments/assets/8ca4894a-a6bd-402b-a980-24e3bac7fc42" />
+<img width="3038" height="1152" alt="mermaid-diagram (13)" src="https://github.com/user-attachments/assets/f8bb14a5-f79f-47f3-9979-3281f15d4b67" />
 
 
 5. Dataset Construction
