@@ -5,7 +5,7 @@ Build an ETL pipeline that collects website data, processes and cleans the text,
 **Project Objectives**
 
 1. Data Ingestion
-<img width="561" height="981" alt="mermaid-diagram (2)" src="https://github.com/user-attachments/assets/0a1bbe90-7477-4f4d-86c4-c6ac2346d4d0" />
+<img width="528" height="875" alt="mermaid-diagram (9)" src="https://github.com/user-attachments/assets/d3b3c064-dc99-49e2-bc8f-504ce6aa40b4" />
 
 
 2. Content Extraction
