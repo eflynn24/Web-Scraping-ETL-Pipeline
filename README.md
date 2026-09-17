@@ -29,4 +29,4 @@ Build an ETL pipeline that collects website data, processes and cleans the text,
 
 
 7. LLM-Ready Output
-<img width="2142" height="654" alt="mermaid-diagram (8)" src="https://github.com/user-attachments/assets/207b93fe-609f-462c-9846-6451c65378dc" />
+<img width="1444" height="840" alt="mermaid-diagram (16)" src="https://github.com/user-attachments/assets/bbf8a3d6-e98c-44cb-afc7-b4775a6b6c84" />
