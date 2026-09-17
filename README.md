@@ -9,7 +9,7 @@ Build an ETL pipeline that collects website data, processes and cleans the text,
 
 
 2. Content Extraction
-<img width="1332" height="992" alt="mermaid-diagram (3)" src="https://github.com/user-attachments/assets/0ef2e283-7c11-48a9-8447-05b36b855d5c" />
+<img width="2379" height="552" alt="mermaid-diagram (11)" src="https://github.com/user-attachments/assets/4b503afa-094a-4447-80ef-be6b325b6b42" />
 
 
 3. Text Cleaning & Normalization
